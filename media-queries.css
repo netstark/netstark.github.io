@@ -69,9 +69,28 @@
 }
 }
 
+
 /*Smile device*/
 @media only screen and (max-width: 480px){
-	.wrapper {
+
+
+.wrapper {
 		width: 320px;
 	}
+.header {
+	background:#A1CCDB ;
+}
+.top_menu{
+	background: #64f1eb;
+}
+.sideleft{
+	background: #80e47e;
+}
+.content{
+	background: #BDBDB0;
+}
+.footer {
+	background:#C49D91 ;
+	height: 45px;
+}
 }
