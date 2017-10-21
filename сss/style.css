@@ -61,6 +61,44 @@ li.li a:hover{
 }
 
 
+/*buttom*/
+
+.animate
+{
+  transition: all 0.1s;
+  -webkit-transition: all 0.1s;
+}
+
+.action-button
+{
+  position: relative;
+  padding: 9.5px 31px;
+  margin: 0px 10px 10px 0px;
+  float: right;
+  border-radius: 4.5px;
+  font-family: 'Pacifico', cursive;
+  font-size: 17.5px;
+  color: #FFF;
+  text-decoration: none;  
+}
+
+.blue
+{
+  background-color: #5C4751;
+  border-bottom: 2px solid #503743;
+  text-shadow: 0px -1.3px #503743;
+}
+
+
+.action-button:active
+{
+  transform: translate(0px,3.2px);
+  -webkit-transform: translate(0px,3.2px);
+  border-bottom: 1px solid #454545;
+}
+
+
+
 /*Social panel - working! */
 
 
