@@ -25,6 +25,7 @@ a {
 /*Header (шапка)*/
 header {
   background: #5c4751;
+  width: 100%;
   height: 93px;
   text-align: center;
 }
